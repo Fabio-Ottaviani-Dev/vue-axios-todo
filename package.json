@@ -1,0 +1,17 @@
+{
+  "name": "vue-axio-todo",
+  "version": "1.0.0",
+  "description": "nd",
+  "main": "index.js",
+  "dependencies": {
+    "json-server": "^0.16.0"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,16 @@
+{
+  "todos": [
+    {
+      "name": "Vue & Axios, Todos 1",
+      "id": 1
+    },
+    {
+      "name": "Vue & Axios, Todos 2",
+      "id": 2
+    },
+    {
+      "name": "Vue & Axios, Todos 3",
+      "id": 3
+    }
+  ]
+}
