@@ -28,6 +28,7 @@ npm install json-server
 # 1. Run lite-server
 npx lite-server
 # 2. Open another tab in the terminal (ctrl + shift + t)
+
 # 3. Run json-server
 json-server --port 5000 --watch db.json
 
