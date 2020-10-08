@@ -4,7 +4,8 @@
   "description": "nd",
   "main": "index.js",
   "dependencies": {
-    "json-server": "^0.16.1"
+    "json-server": "^0.16.2",
+    "npm-upgrade": "^2.0.4"
   },
   "devDependencies": {
     "lite-server": "^2.5.4"
